@@ -37,10 +37,26 @@ body {
   margin: auto;
   border-radius: 10px;
 }
-
-  /*section2*/
-        
-
+   
+/*section2*/
+#IQuote{
+    background-color: #E5E7EB;
+    padding: 50px 200px;
+    }
+h1{
+  font-family: Roboto, Curier;
+  font-size: 20px;
+  color: #1F2937;
+  font-weight: 100;
+  font-style: italic;
+}    
+h2{
+    text-align: right;
+    font-family: Roboto, Curier;
+    font-size: 12px;
+    color: #1F2937;
+    font-style: bold; 
+}
 /*section3*/
        
 
