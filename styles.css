@@ -1,6 +1,8 @@
 body {
-    padding: 0 200px;
-}
+  padding: 0 200px;
+  font-family: Roboto;
+  color: #FFF;
+  }
 /*navbar*/
 
 /*header*/
@@ -11,34 +13,40 @@ body {
         
 
 /*section3*/
-.testing{
-  border: red solid 1px;
+.row {
+  display: block;
+  Padding: 25px 50px;
+  background: #3882F6;
+  border: #3882F6 solid 1px;
+  border-radius: 5px;
 }
-
 .column{
   display: inline-block;
-  font: #FFF;
-}
-.column1 {  
-  padding: 50px;
-  width: 500;
   }
-  .column1 h4{
-    border: blue solid 1px;
+.column1 {  
+  padding: 0 50px;
+  width: 500px;
+  }
+  .upperText{
+  font-weight: 700;
   }  
-  .column1 h5{
-  border: blue solid 1px;
+  .bottomText{
+  font-weight: 20;
 }    
 .column2 {
   width: 30%;
   }
+.ButtonContainer{
+  position: relative;
+}
 .column2 button{
+  position: absolute;
+  top: -35px;
   margin-left: 50%;
+  background-color: #3882F6;
+  color:#FFF;
+  border: #FFF solid 1px;
+  border-radius: 3px;
+  padding: 5px 15px;
 }    
-  .row {
-    display: block;
-    width: 800px;
-    height: 210px;
-    background: #3882F6;
-  }
 /*footer*/
