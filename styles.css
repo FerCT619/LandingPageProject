@@ -11,6 +11,34 @@ body {
         
 
 /*section3*/
-       
+.testing{
+  border: red solid 1px;
+}
 
+.column{
+  display: inline-block;
+  font: #FFF;
+}
+.column1 {  
+  padding: 50px;
+  width: 500;
+  }
+  .column1 h4{
+    border: blue solid 1px;
+  }  
+  .column1 h5{
+  border: blue solid 1px;
+}    
+.column2 {
+  width: 30%;
+  }
+.column2 button{
+  margin-left: 50%;
+}    
+  .row {
+    display: block;
+    width: 800px;
+    height: 210px;
+    background: #3882F6;
+  }
 /*footer*/
