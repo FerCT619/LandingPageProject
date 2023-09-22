@@ -2,20 +2,65 @@ body {
   padding: 0;
   margin: 0;
   font-family: Roboto;
-  color: #FFF;
-  }
+}
 /*navbar*/
 
 /*header*/
         
 /*section1*/
-       
+.testing{
+  border: red solid 1px;
+}
+.imageRow{
+  padding: 50px 400px;
+  width: 600px;
+}
+.imageRow h1{
+  text-align: center;
+  color: #1F2937;
+  font-weight: 900;
+  font-size: 30px;
+}
+.boxRow > div{
+  display: inline-block;
+  width: 24%;
+  text-align: center;
+  font-size: 12px;
+}
+.boxRow p{
+  margin: 0 30px;
+}
+.box{
+  border: #3882F6 solid 3px;
+  width: 100px;
+  height: 100px;
+  margin: auto;
+  border-radius: 10px;
+}
+   
 /*section2*/
-        
-
+#IQuote{
+    background-color: #E5E7EB;
+    padding: 50px 465px;
+    }
+h1{
+  font-family: Roboto, Curier;
+  font-size: 20px;
+  color: #1F2937;
+  font-weight: 100;
+  font-style: italic;
+}    
+h2{
+    text-align: right;
+    font-family: Roboto, Curier;
+    font-size: 12px;
+    color: #1F2937;
+    font-style: bold; 
+}
 /*section3*/
 #signUp{
   margin: 0 200px;
+  color: #FFF;
 }
 .row {
   display: block;
