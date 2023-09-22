@@ -61,8 +61,11 @@ h2{
 #signUp{
   margin: 0 200px;
   color: #FFF;
+  padding: 
 }
 .row {
+  width: 700px;
+  margin: 50px 60px;
   display: block;
   Padding: 25px 50px;
   background: #3882F6;
@@ -74,16 +77,19 @@ h2{
   }
 .column1 {  
   padding: 0 50px;
-  width: 500px;
+  width: 425px;
+  padding-right: 20px;
   }
   .upperText{
+  margin-bottom: 0;
   font-weight: 700;
   }  
   .bottomText{
+  margin-top: 0;
   font-weight: 20;
 }    
 .column2 {
-  width: 30%;
+  width: 24%;
   }
 .ButtonContainer{
   position: relative;
