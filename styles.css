@@ -106,3 +106,10 @@ header h1 {
        
 
 /*footer*/
+footer {
+  padding: 20px;
+}
+
+footer p{
+  text-align: center;
+}
