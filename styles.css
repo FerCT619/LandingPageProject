@@ -196,3 +196,10 @@ h2{
   padding: 5px 15px;
 }    
 /*footer*/
+footer {
+  padding: 20px;
+}
+
+footer p{
+  text-align: center;
+}
