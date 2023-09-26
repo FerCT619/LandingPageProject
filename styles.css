@@ -152,7 +152,6 @@ h2{
 #signUp{
   margin: 0 200px;
   color: #FFF;
-  padding: 
 }
 .row {
   width: 700px;
@@ -196,3 +195,10 @@ h2{
   padding: 5px 15px;
 }    
 /*footer*/
+footer {
+  padding: 20px;
+}
+
+footer p{
+  text-align: center;
+}
